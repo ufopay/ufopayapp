@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "152542873519",
+    "project_id": "ufo-pay-895b9",
+    "storage_bucket": "ufo-pay-895b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152542873519:android:83d0d53469d6c10329d15a",
+        "android_client_info": {
+          "package_name": "io.ufopay.ufopayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152542873519-u5sg7htt3llia9ju6m2k7u9b3fdumfsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ufopay.ufopayapp",
+            "certificate_hash": "3a910b1e5512e04536bb4acb0ec35f06047e65bc"
+          }
+        },
+        {
+          "client_id": "152542873519-m9020kt9om8o27dh8bsn93j2mc185jvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3sNnPjGFMUA-cnQP4nDqAODmdGzh45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152542873519-m9020kt9om8o27dh8bsn93j2mc185jvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152542873519-d5qhb2momkm3nv3op6obcogp0cm4hn39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ufopay.ufopayapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
